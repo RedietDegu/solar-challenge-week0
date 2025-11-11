@@ -13,3 +13,6 @@ data/
 # OS/editor noise
 .DS_Store
 .vscode/
+# Virtual envs
+.venv/
+venv/
