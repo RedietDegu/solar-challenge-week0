@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# Data & notebooks’ checkpoints (brief requires ignoring CSVs & checkpoints)
+data/
+*.csv
+**/.ipynb_checkpoints/
+
+# OS/editor noise
+.DS_Store
+.vscode/
